@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Java Developer & ML Engineer from Pune 💻</h3>
 
 <p align="center">
-I am currently pursuing a Master of Technology in Computer Science & Information Technology at Savitribai Phule Pune University. I hold a Bachelor of Engineering in Information Technology from the same university. Recently, I worked as a Java Full Stack Developer Intern at EazyByts Infotech, where I developed full-stack web applications using Java, Spring Boot, Thymeleaf, and MySQL.
+I am currently pursuing a Master of Technology in Computer Science & Information Technology at Savitribai Phule Pune University. I hold a Bachelor of Engineering in Information Technology from the same university. Recently, I worked as a Java Full Stack Developer Intern at EazyByts Infotech, where I developed full-stack web applications using Java, Spring Boot, Thymeleaf, and MySQL, GIt
 </p>
 
 
